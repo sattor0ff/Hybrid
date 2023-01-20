@@ -1,0 +1,17 @@
+D:\CSharpPractices\Hybrid\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+D:\CSharpPractices\Hybrid\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+D:\CSharpPractices\Hybrid\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+D:\CSharpPractices\Hybrid\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+D:\CSharpPractices\Hybrid\Infrastructure\bin\Debug\net7.0\Domain.dll
+D:\CSharpPractices\Hybrid\Infrastructure\bin\Debug\net7.0\Domain.pdb
+D:\CSharpPractices\Hybrid\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+D:\CSharpPractices\Hybrid\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpPractices\Hybrid\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\CSharpPractices\Hybrid\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+D:\CSharpPractices\Hybrid\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\CSharpPractices\Hybrid\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+D:\CSharpPractices\Hybrid\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+D:\CSharpPractices\Hybrid\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+D:\CSharpPractices\Hybrid\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+D:\CSharpPractices\Hybrid\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+D:\CSharpPractices\Hybrid\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
